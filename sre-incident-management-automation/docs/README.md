@@ -3,3 +3,7 @@ This directory includes documentation for the SRE Incident Management Automation
 
 ## Usage
 To use this component, simply browse the documentation files included in this directory.
+
+## Contributing
+
+Contributions to the project documentation are welcome! Please read the contribution guidelines for more information.
