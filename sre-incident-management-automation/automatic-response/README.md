@@ -11,3 +11,6 @@ The behavior of Automatic Response can be customized by modifying the `response.
 
 ## Contributing
 Contributions to this component are welcome! Please read the contribution guidelines for more information.
+
+## License
+This component is licensed under the MIT License.
