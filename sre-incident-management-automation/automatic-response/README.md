@@ -8,3 +8,6 @@ You can run the `response.py` script manually using the command `python response
 
 ## Configuration
 The behavior of Automatic Response can be customized by modifying the `response.yaml` configuration file. This file specifies the response actions to take for each severity level.
+
+## Contributing
+Contributions to this component are welcome! Please read the contribution guidelines for more information.
