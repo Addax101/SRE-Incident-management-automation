@@ -10,3 +10,7 @@ You can run the `analysis.py script` manually using the command `python analysis
 ## Configuration
 
 The behavior of Post-Incident Analysis can be customized by modifying the `analysis.yaml` configuration file. This file specifies the analysis tasks to perform and the output format for the analysis report.
+
+# Contributing
+
+Contributions to this component are welcome! Please read the contribution guidelines for more information.
