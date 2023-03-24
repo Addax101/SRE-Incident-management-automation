@@ -7,3 +7,6 @@ To use this component, simply browse the documentation files included in this di
 ## Contributing
 
 Contributions to the project documentation are welcome! Please read the contribution guidelines for more information.
+
+## License
+The documentation is licensed under the  the MIT License.
