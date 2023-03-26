@@ -7,5 +7,6 @@ The SRE-Incident-Management-Automation project provides a set of tools and proce
 * Automated incident detection: The system uses various monitoring tools and techniques to detect incidents as soon as they occur. This allows SREs to start working on the issue right away, reducing the mean time to detect (MTTD).
 * Incident prioritization: The system uses predefined criteria to prioritize incidents based on their severity, impact, and urgency. This ensures that SREs focus their efforts on the most critical issues first.
 * Automated incident response: The system provides automated playbooks to guide SREs through the incident response process. These playbooks include predefined steps, procedures, and workflows to ensure that SREs follow best practices and minimize the risk of human error
+* Post-incident analysis: The system provides tools to analyze and document incidents after they are resolved. This helps SRE teams identify trends, root causes, and areas for improvement, leading to a more reliable and resilient system.
 
 
