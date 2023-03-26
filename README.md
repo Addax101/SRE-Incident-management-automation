@@ -12,3 +12,5 @@ The SRE-Incident-Management-Automation project provides a set of tools and proce
 
 
 The SRE-Incident-management-automation tools are designed to be flexible and customizable, allowing SRE teams to adapt them to their specific needs and workflows. The tools are also designed to integrate with a wide range of existing monitoring, alerting, and incident management systems, making it easy to incorporate them into existing SRE workflows.
+
+The SRE-Incident-management-automation tools useful in streamlining your incident management processes and improving the reliability and 
