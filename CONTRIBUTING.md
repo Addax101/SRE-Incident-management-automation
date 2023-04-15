@@ -4,7 +4,7 @@ Before submitting your pull request, please take a moment to review the followin
 
 1. **Purpose**: Please state the purpose of your contribution, and provide a brief overview of what your code accomplishes. This will help us to better understand your intentions and ensure that your code aligns with the goals of the project.
 
-2. Design: Please describe the design of your code, including any algorithms or data structures that are used. This will help us to understand the approach you have taken and any potential limitations or advantages of your code.
+2. **Design**: Please describe the design of your code, including any algorithms or data structures that are used. This will help us to understand the approach you have taken and any potential limitations or advantages of your code.
 
 3. Testing: Please provide a comprehensive suite of tests for your code, including unit tests and integration tests where appropriate. This will help us to ensure the quality of your code and catch any potential issues before they become problems.
 
