@@ -2,7 +2,7 @@ Thank you for considering contributing to our SRE incident management automation
 
 Before submitting your pull request, please take a moment to review the following guidelines and ensure your contribution adheres to them.
 
-1. Purpose: Please state the purpose of your contribution, and provide a brief overview of what your code accomplishes. This will help us to better understand your intentions and ensure that your code aligns with the goals of the project.
+1. **Purpose**: Please state the purpose of your contribution, and provide a brief overview of what your code accomplishes. This will help us to better understand your intentions and ensure that your code aligns with the goals of the project.
 
 2. Design: Please describe the design of your code, including any algorithms or data structures that are used. This will help us to understand the approach you have taken and any potential limitations or advantages of your code.
 
