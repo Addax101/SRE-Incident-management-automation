@@ -6,7 +6,7 @@ Before submitting your pull request, please take a moment to review the followin
 
 2. **Design**: Please describe the design of your code, including any algorithms or data structures that are used. This will help us to understand the approach you have taken and any potential limitations or advantages of your code.
 
-3. Testing: Please provide a comprehensive suite of tests for your code, including unit tests and integration tests where appropriate. This will help us to ensure the quality of your code and catch any potential issues before they become problems.
+3. **Testing**: Please provide a comprehensive suite of tests for your code, including unit tests and integration tests where appropriate. This will help us to ensure the quality of your code and catch any potential issues before they become problems.
 
 4. Documentation: Please provide clear and concise documentation for your code, including any usage instructions or examples. This will help us to ensure that other users can understand and utilize your code effectively.
 5. Licensing: Please ensure that your contribution is licensed under an appropriate open-source license. This will help us to ensure that your code can be used and distributed freely by others.
